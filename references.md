@@ -1,3 +1,2 @@
-# References
+the text of the conflict
 
-* octocat 1 😈
